@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://api.zhycorp.org/assets/images/logo.webp" alt="Zhycorp Logo" width="200px" height="200px"/>
+<img src="https://api.frutbits.org/assets/images/logo.webp" alt="frutbits Logo" width="200px" height="200px"/>
 
-# @zhycorp/pgpkeys
+# @frutbits/pgpkeys
 
-**A collection of Zhycorp's Team PGP keys**
+**A collection of FrutBits Indonesia's Team PGP keys**
 
-[![GitHub](https://img.shields.io/github/license/zhycorp/pgpkeys)](https://github.com/zhycorp/pgpkeys/blob/main/LICENSE)
-[![Discord](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.org/discord)
+[![GitHub](https://img.shields.io/github/license/frutbits/pgpkeys)](https://github.com/frutbits/pgpkeys/blob/main/LICENSE)
+[![Discord](https://discord.com/api/guilds/332877090003091456/embed.png)](https://frutbits.org/discord)
 
 </div>
